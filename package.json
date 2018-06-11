@@ -1,0 +1,19 @@
+{
+  "name": "hexo-tag-pinyin-sort",
+  "version": "1.0.0",
+  "description": "hexo tag pinyin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyougiNevermore/hexo-tag-pinyin-sort.git"
+  },
+  "author": "ryougi",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RyougiNevermore/hexo-tag-pinyin-sort/issues"
+  },
+  "homepage": "https://github.com/RyougiNevermore/hexo-tag-pinyin-sort#readme"
+}
